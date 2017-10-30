@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Vendor Dashboard</title>
+	<atom:link href="http://maderson.design/wcmp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://maderson.design</link>
+	<description>Remarket demo comparison site</description>
+	<lastBuildDate>Sun, 03 Sep 2017 11:23:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>By: Tester Developer</title>
+		<link>http://maderson.design/wcmp/#comment-21</link>
+		<dc:creator><![CDATA[Tester Developer]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2017 11:23:48 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-21</guid>
+		<description><![CDATA[ttttttttttt]]></description>
+		<content:encoded><![CDATA[<p>ttttttttttt</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: remarket</title>
+		<link>http://maderson.design/wcmp/#comment-14</link>
+		<dc:creator><![CDATA[remarket]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2017 20:19:32 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-14</guid>
+		<description><![CDATA[Most epic seller]]></description>
+		<content:encoded><![CDATA[<p>Most epic seller</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: remarket</title>
+		<link>http://maderson.design/wcmp/#comment-13</link>
+		<dc:creator><![CDATA[remarket]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2017 22:13:34 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-13</guid>
+		<description><![CDATA[This is the best seller which I know]]></description>
+		<content:encoded><![CDATA[<p>This is the best seller which I know</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

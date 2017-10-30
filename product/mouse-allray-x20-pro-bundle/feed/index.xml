@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Simple product with sidebar</title>
+	<atom:link href="http://maderson.design/product/mouse-allray-x20-pro-bundle/feed/" rel="self" type="application/rss+xml" />
+	<link>http://maderson.design/product/mouse-allray-x20-pro-bundle/</link>
+	<description>Remarket demo comparison site</description>
+	<lastBuildDate>Sun, 03 Sep 2017 11:23:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>By: supervendor</title>
+		<link>http://maderson.design/product/mouse-allray-x20-pro-bundle/#comment-2</link>
+		<dc:creator><![CDATA[supervendor]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2016 01:47:05 +0000</pubDate>
+		<guid isPermaLink="false">http://revendordemo.wpsoul.net/?post_type=product&#038;p=46#comment-2</guid>
+		<description><![CDATA[I think, this is one of the best products]]></description>
+		<content:encoded><![CDATA[<p>I think, this is one of the best products</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Remarket demo</title>
+	<atom:link href="http://maderson.design/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://maderson.design</link>
+	<description>Remarket demo comparison site</description>
+	<lastBuildDate>Sun, 03 Sep 2017 11:23:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Comment on Vendor Dashboard by Tester Developer</title>
+		<link>http://maderson.design/wcmp/#comment-21</link>
+		<dc:creator><![CDATA[Tester Developer]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2017 11:23:48 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-21</guid>
+		<description><![CDATA[ttttttttttt]]></description>
+		<content:encoded><![CDATA[<p>ttttttttttt</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Sections with sticked sidebar by Aleksandr Golovinov</title>
+		<link>http://maderson.design/product/steel-device-for-dj-and-radio/#comment-17</link>
+		<dc:creator><![CDATA[Aleksandr Golovinov]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2017 08:56:05 +0000</pubDate>
+		<guid isPermaLink="false">http://revendordemo.wpsoul.net/product/steel-device-for-dj-and-radio/#comment-17</guid>
+		<description><![CDATA[WOW it&#039;s great!]]></description>
+		<content:encoded><![CDATA[<p>WOW it&#8217;s great!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Full width extended Product Example by test user</title>
+		<link>http://maderson.design/product/rupor-gift-for-your-next-purchase/#comment-16</link>
+		<dc:creator><![CDATA[test user]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2017 02:05:09 +0000</pubDate>
+		<guid isPermaLink="false">http://revendordemo.wpsoul.net/product/rupor-gift-for-your-next-purchase/#comment-16</guid>
+		<description><![CDATA[this is great]]></description>
+		<content:encoded><![CDATA[<p>this is great</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Paper gadget that rocks your mind by Pit</title>
+		<link>http://maderson.design/product/paper-gadget-that-rocks-your-mind-3/#comment-15</link>
+		<dc:creator><![CDATA[Pit]]></dc:creator>
+		<pubDate>Thu, 24 Aug 2017 23:35:04 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/?post_type=product&#038;p=783#comment-15</guid>
+		<description><![CDATA[nice product]]></description>
+		<content:encoded><![CDATA[<p>nice product</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Vendor Dashboard by remarket</title>
+		<link>http://maderson.design/wcmp/#comment-14</link>
+		<dc:creator><![CDATA[remarket]]></dc:creator>
+		<pubDate>Sun, 20 Aug 2017 20:19:32 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-14</guid>
+		<description><![CDATA[Most epic seller]]></description>
+		<content:encoded><![CDATA[<p>Most epic seller</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Vendor Dashboard by remarket</title>
+		<link>http://maderson.design/wcmp/#comment-13</link>
+		<dc:creator><![CDATA[remarket]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2017 22:13:34 +0000</pubDate>
+		<guid isPermaLink="false">http://maderson.design/wcmp/#comment-13</guid>
+		<description><![CDATA[This is the best seller which I know]]></description>
+		<content:encoded><![CDATA[<p>This is the best seller which I know</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Simple product with sidebar by supervendor</title>
+		<link>http://maderson.design/product/mouse-allray-x20-pro-bundle/#comment-2</link>
+		<dc:creator><![CDATA[supervendor]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2016 01:47:05 +0000</pubDate>
+		<guid isPermaLink="false">http://revendordemo.wpsoul.net/?post_type=product&#038;p=46#comment-2</guid>
+		<description><![CDATA[I think, this is one of the best products]]></description>
+		<content:encoded><![CDATA[<p>I think, this is one of the best products</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
