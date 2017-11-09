@@ -5,7 +5,7 @@ url: http://maderson.design
 description: "s"
 
 keywords: "your keywords, separated by commas"
-skills: "Desenvolvedor Web - Artista Grafico - Designer de Experiência do Usuario"
+skills: "Desenvolvedor Web, Designer de Experiência do Usuario& Gestão T.I"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,10 +33,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Maderson Gonçalves Dias
+  location: Localização
+  social: NA INTERNET
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
